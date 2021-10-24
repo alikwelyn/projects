@@ -1,7 +1,7 @@
 # projects
 In this repository I will add my projects (new and old) from the front-end.<br />
 For now I'll just leave the link for both as I wasn't used to working with github before.<br />
-All wordpress projects were made without any kind of plugin (like element, wpbakery, etc)<br /><br />
+All wordpress projects were made without any kind of plugin (like elementor, wpbakery, etc)<br /><br />
 
 
 ONE-PAGE SITES:<br />
