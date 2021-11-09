@@ -21,7 +21,8 @@ https://beertopiaimport.com/<br />
 https://soundescolademusica.com.br/<br />
 http://suncore.com.br/<br />
 http://vedapulse.com.br/<br />
-https://hemorroidasemcorte.com.br/<br /><br />
+https://hemorroidasemcorte.com.br/<br />
+https://tsuyami.com/<br /><br />
 
 MULTI-PAGES SITES:<br />
 https://grupobruto.com.br/<br />
@@ -31,7 +32,8 @@ https://pequenasuecia.com.br/<br />
 https://andreabrandao.com.br/<br />
 https://nikkaimogi.com.br/<br />
 http://somosdestra.com/<br />
-https://btacreative.com.br/<br /><br />
+https://btacreative.com.br/<br />
+https://iluminatta.net/<br /><br />
 
 
 LEAD SITES:<br />
@@ -46,7 +48,6 @@ https://shishahut.com.br/<br /><br />
 SITES IN THE FINAL APPROVAL PHASE:<br />
 https://wedeploy.com.br/jobs/cbc<br />
 https://wedeploy.com.br/jobs/revalida/<br />
-https://wedeploy.com.br/jobs/iluminatta/site/<br />
 https://wedeploy.com.br/jobs/tradeup/<br /><br />
 
 JAVASCRIPT LOGIC TESTS FOR ILUMINATTA:<br />
