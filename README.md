@@ -5,23 +5,23 @@ All wordpress projects were made without any kind of plugin (like elementor, wpb
 
 
 ONE-PAGE SITES:<br />
-https://colegiobrasilcanada.com.br/><br>
-https://temperanza.com.br/><br />
-https://goldlanguages.com.br/><br />
-https://unitrading.com.br/><br />
-https://iconspa.com.br/><br />
-https://garaschool.com.br/><br />
-https://ofluirdotoque.com.br/><br />
-https://the3rdrailbook.com/><br />
-https://audaxambiental.com/><br />
-https://emsella.drfauzemurad.com.br/><br />
-https://admaxcond.com.br/><br />
-https://faceunic.com.br/><br />
-https://beertopiaimport.com/><br />
-https://soundescolademusica.com.br/><br />
-http://suncore.com.br/><br />
-http://vedapulse.com.br/><br />
-https://hemorroidasemcorte.com.br/><br />
+https://colegiobrasilcanada.com.br<br>
+https://temperanza.com.br/<br>
+https://goldlanguages.com.br/<br>
+https://unitrading.com.br/<br>
+https://iconspa.com.br/<br>
+https://garaschool.com.br/<br>
+https://ofluirdotoque.com.br/<br>
+https://the3rdrailbook.com/<br>
+https://audaxambiental.com/<br>
+https://emsella.drfauzemurad.com.br/<br>
+https://admaxcond.com.br/<br>
+https://faceunic.com.br/<br>
+https://beertopiaimport.com/<br>
+https://soundescolademusica.com.br/<br>
+http://suncore.com.br/<br>
+http://vedapulse.com.br/<br>
+https://hemorroidasemcorte.com.br/<br>
 https://tsuyami.com/<br /><br />
 
 MULTI-PAGES SITES:<br />
