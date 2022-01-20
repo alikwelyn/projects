@@ -49,10 +49,11 @@ ECOMMERCE SITES:<br />
 https://shishahut.com.br/<br /><br />
 
 SITES IN THE FINAL APPROVAL PHASE:<br />
-https://wedeploy.com.br/jobs/tradeup/<br />
+https://wedeploy.com.br/jobs/honey-bunny/<br />
 https://wedeploy.com.br/jobs/arclin/<br />
 http://wedeploy.com.br/jobs/arsaude/<br />
-http://wedeploy.com.br/jobs/athos/<br /><br />
+http://wedeploy.com.br/jobs/athos/<br />
+https://wedeploy.com.br/jobs/tradeup/<br /><br />
 
 JAVASCRIPT LOGIC TESTS FOR ILUMINATTA:<br />
 https://wedeploy.com.br/jobs/iluminatta/eneagrama/<br />
